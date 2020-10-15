@@ -11,4 +11,4 @@ while True:
     else:
         contador = contador + 1
     soma = soma + x
-print(f'Soma: {soma/contador:.1f}')
+print(f'Média: {soma/contador:.1f}')
